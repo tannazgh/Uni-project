@@ -1,4 +1,4 @@
-import image from "../../dist/images/Cover1.png";
+import image from "../../dist/images/cover1.png";
 const Cover = () => {
   return (
     <div>
